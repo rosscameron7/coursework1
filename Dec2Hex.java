@@ -34,5 +34,6 @@ class Dec2Hex
 
         System.out.println("Hexadecimal representation is: " + hexadecimal);
         System.out.println("Thank you for using this converter!");
+        System.out.println("Ross Cameron - DevOps");
     }
 }
