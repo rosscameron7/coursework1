@@ -28,6 +28,6 @@ class Dec2Hex {
         }
 
         String hexadecimal = hexadecimalBuilder.toString();
-        System.out.println("Hexadecimal representation is: " + hexadecimal);
+        System.out.println("The input represented as a hexadecimal value is: " + hexadecimal);
     }
 }
